@@ -8,7 +8,7 @@
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)**  
 
-Elaboradas por município e por SH4* de fertilizantes minerais ou químicos :  
+Elaboradas por município e por SH4* :  
 
 
 ***SH4 - Descrição***  
