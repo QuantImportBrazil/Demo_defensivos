@@ -23,11 +23,6 @@ ATENÇÃO: Na maioria das vezes foram apenas considerdas importações acima de 
 
 - [Paulínia - SP](https://quantimportbrazil.github.io/Demo_defensivos_Paulinia-SP/)
 
----
-
-## Observações
-- Esta página apresenta exemplos ilustrativos das projeções; não substitui relatórios formais.  
-- Para reproduzir as análises ou solicitar dados específicos, entre em contato.
 
 ---
 
