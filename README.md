@@ -12,7 +12,7 @@ Elaboradas por município e por SH4* de fertilizantes minerais ou químicos :
 
 
 ***SH4 - Descrição***  
-3808 - Insecticidas, rodenticidas, fungicidas, herbic...
+3808 - Insecticidas, rodenticidas, fungicidas, herbic...  
 ATENÇÃO: Na maioria das vezes foram apenas considerdas importações acima de 160 ton e preços entre 3 e 20 US$/kg.  
 
 >\* O Sistema Harmonizado (SH) é uma nomenclatura internacional padronizada usada para classificar mercadorias no comércio exterior -  Organização Mundial das Alfândegas (OMA).<br>
