@@ -23,7 +23,7 @@ ATENÇÃO: Na maioria das vezes foram apenas considerdas importações acima de 
 
 - [Paulínia - SP](https://quantimportbrazil.github.io/Demo_defensivos_Paulinia-SP/)
 - ### Exemplo em Destaque:
-- [Importância dos Fatores](https://quantimportbrazil.github.io/Demo_defensivos_Importancia_dos_Fatore)
+- [Importância dos Fatores](https://quantimportbrazil.github.io/Demo_defensivos_Importancia_dos_Fatores)
 
 
 
