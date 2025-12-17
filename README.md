@@ -8,26 +8,17 @@
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)**  
 
-Elaboradas por município e por SH4* :  
+Elaboradas por UF/NCM e Município/SH4:  
 
+---  
 
-***SH4 - Descrição***  
-3808 - Insecticidas, rodenticidas, fungicidas, herbic...  
-ATENÇÃO: Na maioria das vezes foram apenas considerdas importações acima de 160 ton.  
-
->\* O Sistema Harmonizado (SH) é uma nomenclatura internacional padronizada usada para classificar mercadorias no comércio exterior -  Organização Mundial das Alfândegas (OMA).<br>
-
----
-
-### Exemplos e Páginas Relacionadas
-
+- [SP](https://quantimportbrazil.github.io/Demo_defensivos-SP/)
 - [Paulínia - SP](https://quantimportbrazil.github.io/Demo_defensivos_Paulinia-SP/)
-- ### Exemplo em Destaque:
-- [Importância dos Fatores](https://quantimportbrazil.github.io/Demo_defensivos_Importancia_dos_Fatores)
 
-
-
----
+---  
+### Exemplo em Destaque:  
+- [Importância dos Fatores](https://quantimportbrazil.github.io/Demo_defensivos_Importancia_dos_Fatores)  
+---  
 
 ## Contato
 **André Coutinho Bueno**  
