@@ -1,19 +1,19 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
+
+**[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
 ---
 
-## Defensivos Agrícolas — Projeções de Importação
-
+## Defensivos Agrícolas — Projeções de Importação  
+  
 ---
 
-**[Home](https://quantimportbrazil.github.io/Sobre/)**  
-
-Elaboradas por UF/NCM e Município/SH4:  
+Elaboradas por UF/NCM ou Município/SH4:  
 
 ---  
 
-- [SP](https://quantimportbrazil.github.io/Demo_defensivos_SP/)
-- [Paulínia - SP](https://quantimportbrazil.github.io/Demo_defensivos_Paulinia-SP/)
+> [SP](https://quantimportbrazil.github.io/Demo_defensivos_SP/)  
+> [Paulínia - SP](https://quantimportbrazil.github.io/Demo_defensivos_Paulinia-SP/)  
 
 ---  
 ### Exemplo em Destaque:  
